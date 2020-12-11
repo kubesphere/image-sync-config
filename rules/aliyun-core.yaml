@@ -1,0 +1,32 @@
+# KubeSphere:
+"kubesphere/ks-apiserver": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-apiserver"
+"kubesphere/ks-console": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-console"
+"kubesphere/ks-controller-manager": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-controller-manager"
+"kubesphere/ks-installer": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-installer"
+"kubesphere/kubectl": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubectl"
+"kubesphere/ks-upgrade": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-upgrade"
+"kubesphere/ks-devops": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-devops"
+"kubesphere/nginx-ingress-controller": "registry.cn-beijing.aliyuncs.com/kubesphereio/nginx-ingress-controller"
+
+# LocalVolume：
+"kubesphere/node-disk-manager": "registry.cn-beijing.aliyuncs.com/kubesphereio/node-disk-manager"
+"kubesphere/node-disk-operator": "registry.cn-beijing.aliyuncs.com/kubesphereio/node-disk-operator"
+"kubesphere/provisioner-localpv": "registry.cn-beijing.aliyuncs.com/kubesphereio/provisioner-localpv"
+"kubesphere/linux-utils": "registry.cn-beijing.aliyuncs.com/kubesphereio/linux-utils"
+
+# core dependence:
+"kubesphere/redis": "registry.cn-beijing.aliyuncs.com/kubesphereio/redis"
+"kubesphere/alpine": "registry.cn-beijing.aliyuncs.com/kubesphereio/alpine"
+"kubesphere/haproxy": "registry.cn-beijing.aliyuncs.com/kubesphereio/haproxy"
+"kubesphere/mysql": "registry.cn-beijing.aliyuncs.com/kubesphereio/mysql"
+"kubesphere/nginx": "registry.cn-beijing.aliyuncs.com/kubesphereio/nginx"
+"kubesphere/minio": "registry.cn-beijing.aliyuncs.com/kubesphereio/minio"
+"kubesphere/mc": "registry.cn-beijing.aliyuncs.com/kubesphereio/mc"
+"kubesphere/defaultbackend-amd64": "registry.cn-beijing.aliyuncs.com/kubesphereio/defaultbackend-amd64"
+"kubesphere/openldap": "registry.cn-beijing.aliyuncs.com/kubesphereio/openldap"
+"kubesphere/snapshot-controller": "registry.cn-beijing.aliyuncs.com/kubesphereio/snapshot-controller"
+
+
+
+
+

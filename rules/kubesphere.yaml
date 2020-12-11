@@ -1,0 +1,50 @@
+# Core
+"redis:5.0.5-alpine": "kubesphere/redis"
+"alpine:3.10.4": "kubesphere/alpine"
+"haproxy:2.0.4": "kubesphere/haproxy"
+"mysql:8.0.11": "kubesphere/mysql"
+"nginx:1.14-alpine": "kubesphere/nginx"
+"minio/minio:RELEASE.2019-08-07T01-59-21Z": "kubesphere/minio"
+"minio/mc:RELEASE.2019-08-07T23-14-43Z": "kubesphere/mc"
+"mirrorgooglecontainers/defaultbackend-amd64:1.4": "kubesphere/defaultbackend-amd64"
+"osixia/openldap:1.3.0": "kubesphere/openldap"
+"csiplugin/snapshot-controller:v2.0.1": "kubesphere/snapshot-controller"
+
+# Service Mesh
+
+"istio/citadel:1.4.8": "kubesphere/citadel"
+"istio/galley:1.4.8": "kubesphere/galley"
+"istio/kubectl:1.4.8": "kubesphere/kubectl"
+"istio/mixer:1.4.8": "kubesphere/mixer"
+"istio/pilot:1.4.8": "kubesphere/pilot"
+"istio/proxyv2:1.4.8": "kubesphere/proxyv2"
+"istio/sidecar_injector:1.4.8": "kubesphere/sidecar_injector"
+"jaegertracing/jaeger-agent:1.17": "kubesphere/jaeger-agent"
+"jaegertracing/jaeger-collector:1.17": "kubesphere/jaeger-collector"
+"jaegertracing/jaeger-operator:1.17.1": "kubesphere/jaeger-operator"
+"jaegertracing/jaeger-query:1.17": "kubesphere/jaeger-query"
+"jaegertracing/jaeger-es-index-cleaner:1.17.1": "kubesphere/jaeger-es-index-cleaner"
+
+# DevOps
+"jenkins/jenkins:2.176.2": "kubesphere/jenkins"
+"jenkins/jnlp-slave:3.27-1": "kubesphere/jnlp-slave"
+
+# Monitoring
+"prom/alertmanager:v0.21.0": "kubesphere/alertmanager"
+"prom/prometheus:v2.20.1": "kubesphere/prometheus"
+"jimmidyson/configmap-reload:v0.3.0": "kubesphere/configmap-reload"
+
+# k8s：
+"k8s.gcr.io/kube-apiserver:v1.17.9,v1.18.12": "kubesphere/kube-apiserver"
+"k8s.gcr.io/kube-scheduler:v1.17.9,v1.18.12": "kubesphere/kube-scheduler"
+"k8s.gcr.io/kube-proxy:v1.17.9,v1.18.12": "kubesphere/kube-proxy"
+"k8s.gcr.io/kube-controller-manager:v1.17.9,v1.18.12": "kubesphere/kube-controller-manager"
+"k8s.gcr.io/pause:3.1,3.2": "kubesphere/pause"
+"k8s.gcr.io/etcd:v3.3.12": "kubesphere/etcd"
+"k8s.gcr.io/k8s-dns-node-cache:1.15.12": "kubesphere/k8s-dns-node-cache"
+# Maybe we should rename it to calico-xxx
+"calico/kube-controllers:v3.15.1": "kubesphere/kube-controllers"
+"calico/node:v3.15.1": "kubesphere/node"
+"calico/cni:v3.15.1": "kubesphere/cni"
+"calico/pod2daemon-flexvol:v3.15.1": "kubesphere/pod2daemon-flexvol"
+"coredns/coredns:1.6.9": "kubesphere/coredns"

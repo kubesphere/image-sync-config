@@ -1,0 +1,18 @@
+# service-mesh：
+"kubesphere/citadel": "registry.cn-beijing.aliyuncs.com/kubesphereio/citadel"
+"kubesphere/galley": "registry.cn-beijing.aliyuncs.com/kubesphereio/galley"
+# issue 1 同名如何处理 
+# istio/kubectl": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubectl"
+"kubesphere/mixer": "registry.cn-beijing.aliyuncs.com/kubesphereio/mixer"
+"kubesphere/pilot": "registry.cn-beijing.aliyuncs.com/kubesphereio/pilot"
+"kubesphere/proxyv2": "registry.cn-beijing.aliyuncs.com/kubesphereio/proxyv2"
+"kubesphere/sidecar_injector": "registry.cn-beijing.aliyuncs.com/kubesphereio/sidecar_injector"
+"kubesphere/jaeger-agent": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-agent"
+"kubesphere/jaeger-collector": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-collector"
+"kubesphere/jaeger-operator": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-operator"
+"kubesphere/jaeger-query": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-query"
+"kubesphere/jaeger-es-index-cleaner": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-es-index-cleaner"
+
+# multicluster:
+"kubesphere/kubefed": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubefed"
+"kubesphere/tower": "registry.cn-beijing.aliyuncs.com/kubesphereio/tower"

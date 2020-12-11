@@ -1,0 +1,13 @@
+## k8s：
+"kubesphere/kube-apiserver": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-apiserver"
+"kubesphere/kube-scheduler": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-scheduler"
+"kubesphere/kube-proxy": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-proxy"
+"kubesphere/kube-controller-manager": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-controller-manager"
+"kubesphere/pause": "registry.cn-beijing.aliyuncs.com/kubesphereio/pause"
+"kubesphere/etcd": "registry.cn-beijing.aliyuncs.com/kubesphereio/etcd"
+"kubesphere/k8s-dns-node-cache": "registry.cn-beijing.aliyuncs.com/kubesphereio/k8s-dns-node-cache"
+"kubesphere/kube-controllers": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-controllers"
+"kubesphere/node": "registry.cn-beijing.aliyuncs.com/kubesphereio/node"
+"kubesphere/cni": "registry.cn-beijing.aliyuncs.com/kubesphereio/cni"
+"kubesphere/pod2daemon-flexvol": "registry.cn-beijing.aliyuncs.com/kubesphereio/pod2daemon-flexvol"
+"kubesphere/coredns": "registry.cn-beijing.aliyuncs.com/kubesphereio/coredns"
