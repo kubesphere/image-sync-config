@@ -14,7 +14,7 @@
 "kubesphere/provisioner-localpv": "registry.cn-beijing.aliyuncs.com/kubesphereio/provisioner-localpv"
 "kubesphere/linux-utils": "registry.cn-beijing.aliyuncs.com/kubesphereio/linux-utils"
 
-# core dependence:
+# Core dependence:
 "kubesphere/redis": "registry.cn-beijing.aliyuncs.com/kubesphereio/redis"
 "kubesphere/alpine": "registry.cn-beijing.aliyuncs.com/kubesphereio/alpine"
 "kubesphere/haproxy": "registry.cn-beijing.aliyuncs.com/kubesphereio/haproxy"
