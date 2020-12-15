@@ -1,0 +1,10 @@
+##csi-images
+"csiplugin/csi-neonsan": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-neonsan"
+"csiplugin/csi-neonsan-ubuntu": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-neonsan-ubuntu"
+"csiplugin/csi-neonsan-centos": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-neonsan-centos"
+"csiplugin/csi-provisioner": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-provisioner"
+"csiplugin/csi-attacher": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-attacher"
+"csiplugin/csi-resizer": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-resizer"
+"csiplugin/csi-snapshotter": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-snapshotter"
+"csiplugin/csi-node-driver-registrar": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-node-driver-registrar"
+"csiplugin/csi-qingcloud": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-qingcloud"
