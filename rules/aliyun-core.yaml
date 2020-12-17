@@ -3,28 +3,31 @@
 "kubesphere/ks-console": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-console"
 "kubesphere/ks-controller-manager": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-controller-manager"
 "kubesphere/ks-installer": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-installer"
+
+"kubespheredev/ks-apiserver:latest": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-apiserver"
+"kubespheredev/ks-console:latest": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-console"
+"kubespheredev/ks-controller-manager:latest": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-controller-manager"
+"kubespheredev/ks-installer:latest": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-installer"
+
 "kubesphere/kubectl": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubectl"
 "kubesphere/ks-upgrade": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-upgrade"
-"kubesphere/ks-devops": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-devops"
-"kubesphere/nginx-ingress-controller": "registry.cn-beijing.aliyuncs.com/kubesphereio/nginx-ingress-controller"
 
 # LocalVolume：
-"kubesphere/node-disk-manager": "registry.cn-beijing.aliyuncs.com/kubesphereio/node-disk-manager"
-"kubesphere/node-disk-operator": "registry.cn-beijing.aliyuncs.com/kubesphereio/node-disk-operator"
-"kubesphere/provisioner-localpv": "registry.cn-beijing.aliyuncs.com/kubesphereio/provisioner-localpv"
-"kubesphere/linux-utils": "registry.cn-beijing.aliyuncs.com/kubesphereio/linux-utils"
+"openebs/provisioner-localpv:2.3.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/provisioner-localpv"
+"openebs/linux-utils:2.3.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/linux-utils"
 
 # Core dependence:
-"kubesphere/redis": "registry.cn-beijing.aliyuncs.com/kubesphereio/redis"
-"kubesphere/alpine": "registry.cn-beijing.aliyuncs.com/kubesphereio/alpine"
-"kubesphere/haproxy": "registry.cn-beijing.aliyuncs.com/kubesphereio/haproxy"
-"kubesphere/mysql": "registry.cn-beijing.aliyuncs.com/kubesphereio/mysql"
-"kubesphere/nginx": "registry.cn-beijing.aliyuncs.com/kubesphereio/nginx"
-"kubesphere/minio": "registry.cn-beijing.aliyuncs.com/kubesphereio/minio"
-"kubesphere/mc": "registry.cn-beijing.aliyuncs.com/kubesphereio/mc"
-"kubesphere/defaultbackend-amd64": "registry.cn-beijing.aliyuncs.com/kubesphereio/defaultbackend-amd64"
-"kubesphere/openldap": "registry.cn-beijing.aliyuncs.com/kubesphereio/openldap"
-"kubesphere/snapshot-controller": "registry.cn-beijing.aliyuncs.com/kubesphereio/snapshot-controller"
+"redis:5.0.5-alpine": "registry.cn-beijing.aliyuncs.com/kubesphereio/redis"
+"alpine:3.10.4": "registry.cn-beijing.aliyuncs.com/kubesphereio/alpine"
+"haproxy:2.0.4": "registry.cn-beijing.aliyuncs.com/kubesphereio/haproxy"
+"mysql:8.0.11": "registry.cn-beijing.aliyuncs.com/kubesphereio/mysql"
+"nginx:1.14-alpine": "registry.cn-beijing.aliyuncs.com/kubesphereio/nginx"
+"minio/minio:RELEASE.2019-08-07T01-59-21Z": "registry.cn-beijing.aliyuncs.com/kubesphereio/minio"
+"minio/mc:RELEASE.2019-08-07T23-14-43Z": "registry.cn-beijing.aliyuncs.com/kubesphereio/mc"
+"mirrorgooglecontainers/defaultbackend-amd64:1.4": "registry.cn-beijing.aliyuncs.com/kubesphereio/defaultbackend-amd64"
+"kubesphere/nginx-ingress-controller": "registry.cn-beijing.aliyuncs.com/kubesphereio/nginx-ingress-controller"
+"osixia/openldap:1.3.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/openldap"
+"csiplugin/snapshot-controller:v2.0.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/snapshot-controller"
 
 
 

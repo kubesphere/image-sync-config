@@ -1,10 +1,10 @@
 # monitoring：
 "kubesphere/prometheus-config-reloader": "registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus-config-reloader"
 "kubesphere/prometheus-operator": "registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus-operator"
-"kubesphere/alertmanager": "registry.cn-beijing.aliyuncs.com/kubesphereio/alertmanager"
-"kubesphere/prometheus": "registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus"
-"kubesphere/node-exporter": "registry.cn-beijing.aliyuncs.com/kubesphereio/node-exporter"
-"kubesphere/configmap-reload": "registry.cn-beijing.aliyuncs.com/kubesphereio/configmap-reload"
+"prom/alertmanager:v0.21.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/alertmanager"
+"prom/prometheus:v2.20.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus"
+"prom/node-exporter:v0.18.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/node-exporter"
+"jimmidyson/configmap-reload:v0.3.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/configmap-reload"
 "kubesphere/notification-manager-operator": "registry.cn-beijing.aliyuncs.com/kubesphereio/notification-manager-operator"
 "kubesphere/notification-manager": "registry.cn-beijing.aliyuncs.com/kubesphereio/notification-manager"
 "kubesphere/metrics-server": "registry.cn-beijing.aliyuncs.com/kubesphereio/metrics-server"
@@ -13,14 +13,17 @@
 
 # logging:
 "kubesphere/elasticsearch-oss": "registry.cn-beijing.aliyuncs.com/kubesphereio/elasticsearch-oss"
+"kubesphere/elasticsearch-curator:v5.7.6": "registry.cn-beijing.aliyuncs.com/kubesphereio/elasticsearch-curator"
 "kubesphere/fluentbit-operator": "registry.cn-beijing.aliyuncs.com/kubesphereio/fluentbit-operator"
 "kubesphere/fluent-bit": "registry.cn-beijing.aliyuncs.com/kubesphereio/fluent-bit"
+"elastic/filebeat:6.7.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/filebeat"
 "kubesphere/kube-auditing-operator": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-auditing-operator"
 "kubesphere/kube-auditing-webhook": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-auditing-webhook"
 "kubesphere/kube-events-exporter": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-events-exporter"
 "kubesphere/kube-events-operator": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-events-operator"
 "kubesphere/kube-events-ruler": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-events-ruler"
 "kubesphere/log-sidecar-injector": "registry.cn-beijing.aliyuncs.com/kubesphereio/log-sidecar-injector"
+"docker:19.03": "registry.cn-beijing.aliyuncs.com/kubesphereio/docker"
 
 # notification&&alerting:
 "kubesphere/notification": "registry.cn-beijing.aliyuncs.com/kubesphereio/notification"
