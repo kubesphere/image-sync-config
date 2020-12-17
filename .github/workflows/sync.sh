@@ -6,5 +6,5 @@ FILES=$(git diff-tree --no-commit-id --name-only -r $COMMITID |grep rules)
 for FILE in $FILES
 do
      echo "$FILES"
-    ./image-syncer --auth=./auth.json --images=$FILE
+    ./image-syncer --proc=6 --auth=./auth.json --images=$FILE
 done
