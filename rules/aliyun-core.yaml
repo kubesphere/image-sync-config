@@ -9,7 +9,7 @@
 "kubespheredev/ks-controller-manager:latest": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-controller-manager"
 "kubespheredev/ks-installer:latest": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-installer"
 
-"kubesphere/kubectl": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubectl"
+"kubespheredev/kubectl": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubectl"
 "kubesphere/ks-upgrade": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-upgrade"
 
 # LocalVolume：
