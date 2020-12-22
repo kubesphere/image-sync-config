@@ -7,6 +7,7 @@
 "jaegertracing/jaeger-query:1.17": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-query"
 "jaegertracing/jaeger-es-index-cleaner:1.17": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-es-index-cleaner"
 "kubespheredev/kiali": "registry.cn-beijing.aliyuncs.com/kubesphereio/kiali"
+"kubespheredev/kiali-operator": "registry.cn-beijing.aliyuncs.com/kubesphereio/kiali-operator"
 
 # multicluster:
 "kubesphere/kubefed": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubefed"
