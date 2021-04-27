@@ -4,12 +4,12 @@
 # "kubesphere/ks-controller-manager": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-controller-manager"
 # "kubesphere/ks-installer": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-installer"
 
-"kubespheredev/ks-apiserver:latest": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-apiserver"
-"kubespheredev/ks-console:latest": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-console"
-"kubespheredev/ks-controller-manager:latest": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-controller-manager"
-"kubespheredev/ks-installer:latest": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-installer"
+"kubesphere/ks-apiserver": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-apiserver"
+"kubesphere/ks-console": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-console"
+"kubesphere/ks-controller-manager": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-controller-manager"
+"kubesphere/ks-installer": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-installer"
 
-"kubespheredev/kubectl": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubectl"
+"kubesphere/kubectl": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubectl"
 "kubesphere/ks-upgrade": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-upgrade"
 
 # LocalVolume：
