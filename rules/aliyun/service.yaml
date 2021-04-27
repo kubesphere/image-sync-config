@@ -1,13 +1,13 @@
 # service-mesh：
 "istio/pilot:1.6.10": "registry.cn-beijing.aliyuncs.com/kubesphereio/pilot"
 "istio/proxyv2:1.6.10": "registry.cn-beijing.aliyuncs.com/kubesphereio/proxyv2"
+"kubesphere/kiali-operator": "registry.cn-beijing.aliyuncs.com/kubesphereio/kiali-operator"
+"kubesphere/kiali": "registry.cn-beijing.aliyuncs.com/kubesphereio/kiali"
 "jaegertracing/jaeger-agent:1.17": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-agent"
 "jaegertracing/jaeger-collector:1.17": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-collector"
 "jaegertracing/jaeger-operator:1.17.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-operator"
 "jaegertracing/jaeger-query:1.17": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-query"
 "jaegertracing/jaeger-es-index-cleaner:1.17": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-es-index-cleaner"
-"kubespheredev/kiali": "registry.cn-beijing.aliyuncs.com/kubesphereio/kiali"
-"kubespheredev/kiali-operator": "registry.cn-beijing.aliyuncs.com/kubesphereio/kiali-operator"
 
 # multicluster:
 "kubesphere/kubefed": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubefed"

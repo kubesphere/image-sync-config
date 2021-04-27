@@ -1,0 +1,4 @@
+# KubeEdge
+"kubeedge/cloudcore:v1.6.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/cloudcore"
+"kubesphere/edge-watcher-agent": "registry.cn-beijing.aliyuncs.com/kubesphereio/edge-watcher-agent"
+"kubesphere/edge-watcher": "registry.cn-beijing.aliyuncs.com/kubesphereio/edge-watcher"

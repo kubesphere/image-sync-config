@@ -1,5 +1,5 @@
 # devops：
-"kubespheredev/s2ioperator:latest": "registry.cn-beijing.aliyuncs.com/kubesphereio/s2ioperator"
+"kubesphere/s2ioperator": "registry.cn-beijing.aliyuncs.com/kubesphereio/s2ioperator"
 "kubesphere/s2irun": "registry.cn-beijing.aliyuncs.com/kubesphereio/s2irun"
 "kubesphere/builder-base": "registry.cn-beijing.aliyuncs.com/kubesphereio/builder-base"
 "kubesphere/builder-nodejs": "registry.cn-beijing.aliyuncs.com/kubesphereio/builder-nodejs"
@@ -21,6 +21,5 @@
 "kubesphere/python-35-centos7": "registry.cn-beijing.aliyuncs.com/kubesphereio/python-35-centos7"
 "kubesphere/python-34-centos7": "registry.cn-beijing.aliyuncs.com/kubesphereio/python-34-centos7"
 "kubesphere/python-27-centos7": "registry.cn-beijing.aliyuncs.com/kubesphereio/python-27-centos7"
-
-"kubespheredev/ks-jenkins:2.176.2": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-jenkins"
+"kubesphere/ks-jenkins:2.249.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-jenkins"
 "jenkins/jnlp-slave:3.27-1": "registry.cn-beijing.aliyuncs.com/kubesphereio/jnlp-slave"

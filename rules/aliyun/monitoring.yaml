@@ -2,7 +2,7 @@
 "kubesphere/prometheus-config-reloader": "registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus-config-reloader"
 "kubesphere/prometheus-operator": "registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus-operator"
 "prom/alertmanager:v0.21.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/alertmanager"
-"prom/prometheus:v2.20.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus"
+"prom/prometheus:v2.26.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/prometheus"
 "prom/node-exporter:v0.18.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/node-exporter"
 "jimmidyson/configmap-reload:v0.3.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/configmap-reload"
 "kubesphere/notification-manager-operator": "registry.cn-beijing.aliyuncs.com/kubesphereio/notification-manager-operator"
@@ -10,6 +10,7 @@
 "kubesphere/metrics-server": "registry.cn-beijing.aliyuncs.com/kubesphereio/metrics-server"
 "kubesphere/kube-rbac-proxy": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-rbac-proxy"
 "kubesphere/kube-state-metrics": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-state-metrics"
+"thanosio/thanos:v0.18.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/thanos"
 
 # logging:
 "kubesphere/elasticsearch-oss": "registry.cn-beijing.aliyuncs.com/kubesphereio/elasticsearch-oss"
