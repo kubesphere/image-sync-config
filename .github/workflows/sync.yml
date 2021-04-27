@@ -4,10 +4,7 @@ on:
   push:
     branches:
       - 'master'
-  pull_request:
-    branches:
-      - 'master'
-  page_build:
+      - 'release-*'
 
 jobs:
   build:
@@ -25,5 +22,5 @@ jobs:
         env:
           AUTH: ${{ secrets.AUTH }}
           COMMITID: ${{ github.sha}}
-        # if: github.event_name == 'push'
+        if: github.event_name == 'push'
         run: echo "$AUTH" > ./auth.json && .github/workflows/sync.sh
