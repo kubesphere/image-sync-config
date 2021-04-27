@@ -21,5 +21,5 @@
 "kubesphere/python-35-centos7": "registry.cn-beijing.aliyuncs.com/kubesphereio/python-35-centos7"
 "kubesphere/python-34-centos7": "registry.cn-beijing.aliyuncs.com/kubesphereio/python-34-centos7"
 "kubesphere/python-27-centos7": "registry.cn-beijing.aliyuncs.com/kubesphereio/python-27-centos7"
-"kubesphere/ks-jenkins": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-jenkins"
-"jenkins/jnlp-slave": "registry.cn-beijing.aliyuncs.com/kubesphereio/jnlp-slave"
+"kubesphere/ks-jenkins:2.249.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-jenkins"
+"jenkins/jnlp-slave:3.27-1": "registry.cn-beijing.aliyuncs.com/kubesphereio/jnlp-slave"
