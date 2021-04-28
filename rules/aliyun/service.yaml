@@ -19,3 +19,6 @@
 "kubesphere/kubefed": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubefed"
 "kubesphere/tower": "registry.cn-beijing.aliyuncs.com/kubesphereio/tower"
 
+# weave scope
+"weaveworks/scope:1.13.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/scope"
+
