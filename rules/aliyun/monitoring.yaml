@@ -31,3 +31,4 @@
 "kubesphere/alert-adapter": "registry.cn-beijing.aliyuncs.com/kubesphereio/alert-adapter"
 "kubesphere/alerting-dbinit": "registry.cn-beijing.aliyuncs.com/kubesphereio/alerting-dbinit"
 "kubesphere/alerting": "registry.cn-beijing.aliyuncs.com/kubesphereio/alerting"
+"kubesphere/ks-alerting-migration:v3.1.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-alerting-migration"
