@@ -8,6 +8,12 @@
 "jaegertracing/jaeger-operator:1.17.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-operator"
 "jaegertracing/jaeger-query:1.17": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-query"
 "jaegertracing/jaeger-es-index-cleaner:1.17": "registry.cn-beijing.aliyuncs.com/kubesphereio/jaeger-es-index-cleaner"
+"kubesphere/examples-bookinfo-productpage-v1": "registry.cn-beijing.aliyuncs.com/kubesphereio/examples-bookinfo-productpage-v1"
+"kubesphere/examples-bookinfo-reviews-v1": "registry.cn-beijing.aliyuncs.com/kubesphereio/examples-bookinfo-reviews-v1"
+"kubesphere/examples-bookinfo-reviews-v2": "registry.cn-beijing.aliyuncs.com/kubesphereio/examples-bookinfo-reviews-v2"
+"kubesphere/examples-bookinfo-reviews-v3": "registry.cn-beijing.aliyuncs.com/kubesphereio/examples-bookinfo-reviews-v3"
+"kubesphere/examples-bookinfo-details-v1": "registry.cn-beijing.aliyuncs.com/kubesphereio/examples-bookinfo-details-v1"
+"kubesphere/examples-bookinfo-ratings-v1": "registry.cn-beijing.aliyuncs.com/kubesphereio/examples-bookinfo-ratings-v1"
 
 # multicluster:
 "kubesphere/kubefed": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubefed"
