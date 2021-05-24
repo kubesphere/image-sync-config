@@ -12,10 +12,6 @@
 "kubesphere/kubectl": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubectl"
 "kubesphere/ks-upgrade": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-upgrade"
 
-# LocalVolume：
-"openebs/provisioner-localpv:2.3.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/provisioner-localpv"
-"openebs/linux-utils:2.3.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/linux-utils"
-
 # Core dependence:
 "redis:5.0.5-alpine": "registry.cn-beijing.aliyuncs.com/kubesphereio/redis"
 "alpine:3.10.4": "registry.cn-beijing.aliyuncs.com/kubesphereio/alpine"
