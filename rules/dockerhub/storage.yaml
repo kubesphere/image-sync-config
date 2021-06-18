@@ -1,0 +1,2 @@
+# used by https://github.com/kubesphere/helm-charts/tree/master/src/main/nfs-client-provisioner for domestic environment
+"k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner": "kubesphere/nfs-subdir-external-provisioner"
