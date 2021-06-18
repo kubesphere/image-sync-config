@@ -1,4 +1,4 @@
-##csi-images
+# csi-images
 "csiplugin/csi-neonsan": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-neonsan"
 "csiplugin/csi-neonsan-ubuntu": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-neonsan-ubuntu"
 "csiplugin/csi-neonsan-centos": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-neonsan-centos"
@@ -8,3 +8,6 @@
 "csiplugin/csi-snapshotter": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-snapshotter"
 "csiplugin/csi-node-driver-registrar": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-node-driver-registrar"
 "csiplugin/csi-qingcloud": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-qingcloud"
+
+# nfs-provisioner image referred by kubesphere helm chart
+"k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner": "registry.cn-beijing.aliyuncs.com/kubesphereio/nfs-subdir-external-provisioner"
