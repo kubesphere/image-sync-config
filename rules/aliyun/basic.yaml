@@ -13,9 +13,9 @@
 "kubesphere/ks-upgrade": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-upgrade"
 
 # Core dependence:
-"redis:5.0.5-alpine": "registry.cn-beijing.aliyuncs.com/kubesphereio/redis"
-"alpine:3.10.4": "registry.cn-beijing.aliyuncs.com/kubesphereio/alpine"
-"haproxy:2.0.4": "registry.cn-beijing.aliyuncs.com/kubesphereio/haproxy"
+"redis:5.0.12-alpine": "registry.cn-beijing.aliyuncs.com/kubesphereio/redis"
+"alpine:3.14": "registry.cn-beijing.aliyuncs.com/kubesphereio/alpine"
+"haproxy:2.0.22-alpine": "registry.cn-beijing.aliyuncs.com/kubesphereio/haproxy"
 "mysql:8.0.11": "registry.cn-beijing.aliyuncs.com/kubesphereio/mysql"
 "nginx:1.14-alpine": "registry.cn-beijing.aliyuncs.com/kubesphereio/nginx"
 "minio/minio:RELEASE.2019-08-07T01-59-21Z": "registry.cn-beijing.aliyuncs.com/kubesphereio/minio"
@@ -23,7 +23,7 @@
 "mirrorgooglecontainers/defaultbackend-amd64:1.4": "registry.cn-beijing.aliyuncs.com/kubesphereio/defaultbackend-amd64"
 "kubesphere/nginx-ingress-controller": "registry.cn-beijing.aliyuncs.com/kubesphereio/nginx-ingress-controller"
 "osixia/openldap:1.3.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/openldap"
-"csiplugin/snapshot-controller:v2.0.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/snapshot-controller"
+"csiplugin/snapshot-controller:v3.0.3": "registry.cn-beijing.aliyuncs.com/kubesphereio/snapshot-controller"
 
 
 

@@ -1,8 +1,8 @@
 ## k8s：
-"kubesphere/kube-apiserver:v1.20.4": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-apiserver"
-"kubesphere/kube-scheduler:v1.20.4": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-scheduler"
-"kubesphere/kube-proxy:v1.20.4": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-proxy"
-"kubesphere/kube-controller-manager:v1.20.4": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-controller-manager"
+"kubesphere/kube-apiserver:v1.20.6": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-apiserver"
+"kubesphere/kube-scheduler:v1.20.6": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-scheduler"
+"kubesphere/kube-proxy:v1.20.6": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-proxy"
+"kubesphere/kube-controller-manager:v1.20.6": "registry.cn-beijing.aliyuncs.com/kubesphereio/kube-controller-manager"
 "kubesphere/pause:3.2": "registry.cn-beijing.aliyuncs.com/kubesphereio/pause"
 "kubesphere/etcd:v3.4.13": "registry.cn-beijing.aliyuncs.com/kubesphereio/etcd"
 "kubesphere/k8s-dns-node-cache:1.15.12": "registry.cn-beijing.aliyuncs.com/kubesphereio/k8s-dns-node-cache"
@@ -18,5 +18,5 @@
 "cilium/operator-generic:v1.8.3": "registry.cn-beijing.aliyuncs.com/kubesphereio/operator-generic"
 
 # LocalVolume：
-"openebs/provisioner-localpv:2.9.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/provisioner-localpv"
-"openebs/linux-utils:2.9.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/linux-utils"
+"openebs/provisioner-localpv:2.10.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/provisioner-localpv"
+"openebs/linux-utils:2.10.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/linux-utils"

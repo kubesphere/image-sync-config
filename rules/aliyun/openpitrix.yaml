@@ -1,6 +1,2 @@
 # openpitrix:
-"openpitrix/generate-kubeconfig:v0.5.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/generate-kubeconfig"
-"openpitrix/openpitrix:v0.5.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/openpitrix"
-"openpitrix/openpitrix-flyway:v0.5.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/openpitrix-flyway"
-"openpitrix/release-app:v0.5.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/release-app"
-"kubesphere/openpitrix-jobs": "registry.cn-beijing.aliyuncs.com/kubesphereio/openpitrix-jobs"
+"kubespheredev/openpitrix-jobs": "registry.cn-beijing.aliyuncs.com/kubesphereio/openpitrix-jobs"
