@@ -20,3 +20,6 @@
 # LocalVolume：
 "openebs/provisioner-localpv:2.10.1": "registry.cn-beijing.aliyuncs.com/kubesphereio/provisioner-localpv"
 "openebs/linux-utils:2.10.0": "registry.cn-beijing.aliyuncs.com/kubesphereio/linux-utils"
+
+# Internal LB
+"library/haproxy:2.3": "registry.cn-beijing.aliyuncs.com/kubesphereio/haproxy:2.3"
