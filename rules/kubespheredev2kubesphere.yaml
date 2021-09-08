@@ -1,1 +1,2 @@
 "kubespheredev/tower:0.2.0": "kubesphere/tower:v0.2.0"
+"kubespheredev/kubefed:v0.8.1": "kubesphere/kubefed:v0.8.1"
