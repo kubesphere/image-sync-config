@@ -6,6 +6,7 @@
 "csiplugin/csi-attacher": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-attacher"
 "csiplugin/csi-resizer": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-resizer"
 "csiplugin/csi-snapshotter": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-snapshotter"
+"k8s.gcr.io/sig-storage/snapshot-controller": "registry.cn-beijing.aliyuncs.com/kubesphereio/snapshot-controller"
 "csiplugin/csi-node-driver-registrar": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-node-driver-registrar"
 "csiplugin/csi-qingcloud": "registry.cn-beijing.aliyuncs.com/kubesphereio/csi-qingcloud"
 
