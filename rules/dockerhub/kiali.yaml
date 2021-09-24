@@ -1,0 +1,2 @@
+"quay.io/kiali/kiali-operator:v1.38.1": "kubesphere/kiali-operator"
+"quay.io/kiali/kiali:v1.38": "kubesphere/kiali"
