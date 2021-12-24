@@ -1,1 +1,1 @@
-"k8s.gcr.io/ingress-nginx/controller:v0.48.1": "kubesphere/nginx-ingress-controller"
+"k8s.gcr.io/ingress-nginx/controller:v0.48.1,v1.1.0": "kubesphere/nginx-ingress-controller"
