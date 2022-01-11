@@ -1,2 +1,7 @@
 "kubespheredev/tower:0.2.0": "kubesphere/tower:v0.2.0"
 "kubespheredev/kubefed:v0.8.1": "kubesphere/kubefed:v0.8.1"
+
+# used by  https://github.com/kubesphere/kube-events
+"kubespheredev/kube-events-operator:v0.3.1": "kubesphere/kube-events-operator:v0.3.1"
+"kubespheredev/kube-events-exporter:v0.3.1": "kubesphere/kube-events-exporter:v0.3.1"
+"kubespheredev/kube-events-ruler:v0.3.1": "kubesphere/kube-events-ruler:v0.3.1"
