@@ -1,0 +1,5 @@
+# prometheus stack
+"quay.io/prometheus-operator/prometheus-operator:v0.53.1": "kubesphere/prometheus-operator"
+"quay.io/prometheus-operator/prometheus-config-reloader:v0.53.1": "kubesphere/prometheus-config-reloader"
+"quay.io/brancz/kube-rbac-proxy:v0.11.0": "kubesphere/kube-rbac-proxy"
+"k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.3.0": "kubesphere/kube-state-metrics"
