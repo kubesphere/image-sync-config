@@ -5,3 +5,6 @@
 "kubespheredev/kube-events-operator:v0.3.1": "kubesphere/kube-events-operator:v0.3.1"
 "kubespheredev/kube-events-exporter:v0.3.1": "kubesphere/kube-events-exporter:v0.3.1"
 "kubespheredev/kube-events-ruler:v0.3.1": "kubesphere/kube-events-ruler:v0.3.1"
+"kubespheredev/notification-manager-operator:v1.4.1": "kubesphere/notification-manager-operator:v1.4.1"
+"kubespheredev/notification-manager:v1.4.1": "kubesphere/notification-manager:v1.4.1"
+"kubespheredev/notification-adapter:v0.2.0": "kubesphere/notification-adapter:v0.2.0"
