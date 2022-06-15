@@ -1,0 +1,3 @@
+# openelb stack
+"k8s.gcr.io/ingress-nginx/kube-webhook-certgen:v1.1.1": "kubesphere/kube-webhook-certgen"
+"aledbf/kube-keepalived-vip:0.35": "kubesphere/kube-keepalived-vip"
