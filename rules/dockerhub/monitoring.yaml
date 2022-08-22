@@ -3,3 +3,6 @@
 "quay.io/prometheus-operator/prometheus-config-reloader:v0.53.1": "kubesphere/prometheus-config-reloader"
 "quay.io/brancz/kube-rbac-proxy:v0.11.0": "kubesphere/kube-rbac-proxy"
 "k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.3.0": "kubesphere/kube-state-metrics"
+
+"thanosio/thanos:v0.26.0": "kubesphere/whizard:v0.26.0"
+"thanosio/thanos:v0.27.0": "kubesphere/whizard:v0.27.0"
