@@ -8,3 +8,5 @@
 "kubespheredev/notification-manager-operator:v1.4.1": "kubesphere/notification-manager-operator:v1.4.1"
 "kubespheredev/notification-manager:v1.4.1": "kubesphere/notification-manager:v1.4.1"
 "kubespheredev/notification-adapter:v0.2.0": "kubesphere/notification-adapter:v0.2.0"
+
+"kubespheredev/openpitrix-jobs": "kubesphere/openpitrix-jobs"
