@@ -21,6 +21,5 @@ jobs:
       - name: Synchronization
         env:
           AUTH: ${{ secrets.AUTH }}
-          COMMITID: ${{ github.sha}}
         if: github.event_name == 'push'
         run: echo "$AUTH" > ./auth.json && .github/workflows/sync.sh
