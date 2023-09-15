@@ -11,6 +11,7 @@
 
 "kubesphere/kubectl": "registry.cn-beijing.aliyuncs.com/kubesphereio/kubectl"
 "kubesphere/ks-upgrade": "registry.cn-beijing.aliyuncs.com/kubesphereio/ks-upgrade"
+"kubesphere/helm": "registry.cn-beijing.aliyuncs.com/kubesphereio/helm"
 
 # Core dependence:
 "redis:5.0.12-alpine": "registry.cn-beijing.aliyuncs.com/kubesphereio/redis"
